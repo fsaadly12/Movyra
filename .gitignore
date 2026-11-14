@@ -1,0 +1,35 @@
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Node.js / React
+node_modules/
+dist/
+
+# Environment and secrets
+.env
+.env.*
+application-local.properties
+application-local.yml
+*.keystore
+*.jks
+
+# Operating System
+.DS_Store
+Thumbs.db
